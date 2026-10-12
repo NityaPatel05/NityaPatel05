@@ -39,7 +39,8 @@ I'm a Computer Science undergrad at **Nirma University** (B.Tech, CGPA 8.88, gra
 | **[Multi-Agent Research System](https://github.com/NityaPatel05/Multi_agent_system)** | Decomposes a topic, runs parallel web searches, verifies evidence and writes a cited report, with model routing, checkpointing and human plan approval. | LangGraph, FastAPI, MCP, PostgreSQL, Qdrant |
 | **[Self-Healing-Docs](https://github.com/NityaPatel05/Self-Healing-Docs)** | A GitHub Action that detects when a PR makes your Markdown docs wrong, then opens a fix PR or leaves a review comment. | Python, GitHub Actions |
 | **[Eval-Dataset-Generator](https://github.com/NityaPatel05/Eval-Dataset-Generator-)** | Mines production LLM logs for edge cases and failures and turns them into a growing labeled eval dataset with regression tracking. | Python, LLM evals |
-| **[Narrative Intelligence Dashboard](https://github.com/NityaPatel05/research-engineering-intern-assignment)** | Traces how narratives emerge and decay across Reddit using network analysis, topic modeling and semantic search. | Python, NLP, AWS |
+| **[LLM-Cost-Autopilot](https://github.com/NityaPatel05/LLM-Cost-Autopilot)** | A routing layer in front of Groq's model catalog that scores each request's complexity, sends it to the cheapest capable model, and verifies the routing was right, escalating when it wasn't. | Python, Groq, LLM routing |
+| **[Failure-Forensics](https://github.com/NityaPatel05/Failure-Forensics)** | A mini LangSmith: traces a 4-stage document pipeline, diagnoses where and why a run failed, and turns confirmed failures into permanent regression tests. | Python, LLM observability |
 
 ## GitHub Stats
 
