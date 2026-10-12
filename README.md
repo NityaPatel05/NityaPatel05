@@ -60,6 +60,7 @@ I'm a Computer Science undergrad at **Nirma University** (B.Tech, CGPA 8.88, gra
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-patelnitya1511%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelnitya1511@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-patelnitya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelnitya)
 [![GitHub](https://img.shields.io/badge/GitHub-NityaPatel05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NityaPatel05)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
