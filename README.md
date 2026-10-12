@@ -50,7 +50,7 @@ I'm a Computer Science undergrad at **Nirma University** (B.Tech, CGPA 8.88, gra
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/NityaPatel05/NityaPatel05/output/github-snake-dark.svg" alt="contribution snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NityaPatel05&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
 
 </div>
 
