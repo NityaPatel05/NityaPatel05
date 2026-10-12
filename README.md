@@ -42,19 +42,6 @@ I'm a Computer Science undergrad at **Nirma University** (B.Tech, CGPA 8.88, gra
 | **[LLM-Cost-Autopilot](https://github.com/NityaPatel05/LLM-Cost-Autopilot)** | A routing layer in front of Groq's model catalog that scores each request's complexity, sends it to the cheapest capable model, and verifies the routing was right, escalating when it wasn't. | Python, Groq, LLM routing |
 | **[Failure-Forensics](https://github.com/NityaPatel05/Failure-Forensics)** | A mini LangSmith: traces a 4-stage document pipeline, diagnoses where and why a run failed, and turns confirmed failures into permanent regression tests. | Python, LLM observability |
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NityaPatel05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NityaPatel05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NityaPatel05&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
-
-</div>
-
 ## Connect
 
 <div align="center">
